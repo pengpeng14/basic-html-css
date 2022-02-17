@@ -1,0 +1,27 @@
+body{
+    margin: 10px;
+    background-image: url("http://www.ghibli.jp/images/marnie1.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+table{
+    opacity: 0.9;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+td, tr{
+    height: 40px;
+    font-size: 16px;
+    text-align: center;
+}
+.font-nav{
+    font-style: italic;
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+}
+.colour-day-time{
+    background-color: whitesmoke;
+}

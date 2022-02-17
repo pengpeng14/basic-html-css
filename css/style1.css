@@ -1,0 +1,75 @@
+body{
+    margin: 10px;
+}
+.header-adjust {
+    background-color: maroon;
+    color: whitesmoke;
+    border-width: 0px 0px 0px 17px;
+    border-color:maroon;
+    border-style: solid;
+    letter-spacing: 10px;
+}
+.font-adjust{
+    letter-spacing: 10px;
+    font-style: italic;
+    font-family: 'Crimson Text', serif;
+    font-size: 50px;
+    text-align: center;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+  /* Create two equal columns that sits next to each other */
+.column {
+    flex: 10%;
+    padding: 0 4px;
+}
+.column img {
+    margin: 8px;
+    vertical-align: middle;
+}
+.video-container-deco{
+    background-color: lightyellow;
+    margin-top: 10px;
+    align-content: center;
+}
+.frame-deco{
+    margin: 15px 15px 10px 10px;
+}
+/* .track-no{
+    font-family: ;
+} */
+.font-nav{
+    font-style: italic;
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.font-card-deck{
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+}
+.font-info-card-deck{
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+    color: #B92F2E;
+}
+.nav-deco{
+    background-color: #B1A798;
+}
+.choice-nav-deco{
+    color: whitesmoke;
+}
+.container{
+    width: min-content;
+}
+.media-frame-deco{
+    margin-left: 4px;
+    margin-right: 4px;
+    border-radius: 10px;
+}
